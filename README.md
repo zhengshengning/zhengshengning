@@ -6,7 +6,6 @@
 
 ### 🔬 Recent Work
 - PHI kernel development & optimization
-- Dynamic shape & autograd correctness
 - CPU / GPU kernel consistency
 
 ### 🛠 Tech Stack
