@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Zhansheng
 
-<!--
-**zhengshengning/zhengshengning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Paddle Framework Developer
+- ⚙️ Focus on operator / kernel / performance
+- 🚀 Interested in CUDA, vectorization, deep learning systems
 
-Here are some ideas to get you started:
+### 🔬 Recent Work
+- PHI kernel development & optimization
+- Dynamic shape & autograd correctness
+- CPU / GPU kernel consistency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- C++ / CUDA / Python
+- Paddle / PyTorch
+- AVX / BF16 / FP16
+
+### 📫 Contact
+- GitHub: @zhengshengning
